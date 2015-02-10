@@ -1,4 +1,4 @@
-I write this option because in the net the user have only one option to pay about this.
+I write this option because in the net the user have only one option and it's to pay about this.
 So let's get start.
 1.Go to you joomla root directory
 2.Open administrator/components/com_virtuemart/helpers/
